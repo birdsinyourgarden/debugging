@@ -53,4 +53,3 @@ Cuando el programa esté corregido, la salida debería ser algo como esto:
 Números pares entre 1 y 10: 2 4 6 8 10
 
 Números impares entre 1 y 10: 1 3 5 7 9
-
